@@ -23,7 +23,7 @@ client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 
 # COMPILE REQUEST PARAMETERS (PREPARE THE MESSAGE)
 
-content = "Hello, this is a message from your personal notification service. TODO: customize me!"
+content = "Hello, this is a message from your personal notification service. TODO: Customize the message."
 
 # ISSUE REQUEST (SEND SMS)
 
